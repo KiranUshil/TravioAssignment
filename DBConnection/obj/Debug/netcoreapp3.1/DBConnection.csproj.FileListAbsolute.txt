@@ -1,0 +1,10 @@
+F:\TAssignment\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.deps.json
+F:\TAssignment\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.dll
+F:\TAssignment\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.pdb
+F:\TAssignment\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.AssemblyReference.cache
+F:\TAssignment\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.GeneratedMSBuildEditorConfig.editorconfig
+F:\TAssignment\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfoInputs.cache
+F:\TAssignment\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfo.cs
+F:\TAssignment\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.CoreCompileInputs.cache
+F:\TAssignment\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.dll
+F:\TAssignment\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.pdb

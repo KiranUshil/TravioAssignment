@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravioSofAssignment", "TravioSofAssignment.csproj", "{563C0685-AF48-4E32-8A25-AA6869CC2605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnection", "..\DBConnection\DBConnection.csproj", "{1B5CDC63-19B0-4A91-AC2F-ED48C4616D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563C0685-AF48-4E32-8A25-AA6869CC2605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563C0685-AF48-4E32-8A25-AA6869CC2605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563C0685-AF48-4E32-8A25-AA6869CC2605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563C0685-AF48-4E32-8A25-AA6869CC2605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5CDC63-19B0-4A91-AC2F-ED48C4616D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5CDC63-19B0-4A91-AC2F-ED48C4616D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5CDC63-19B0-4A91-AC2F-ED48C4616D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5CDC63-19B0-4A91-AC2F-ED48C4616D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709067A9-FC25-4380-AAAD-83FE7490DD86}
+	EndGlobalSection
+EndGlobal
